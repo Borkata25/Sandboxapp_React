@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: First install:
+`npm i @faker-js/faker`,
+`npm install react-redux`,
+`npm install reduxjs/toolkit`,
+`npm install bulma`
 
 ### `npm start`
 
